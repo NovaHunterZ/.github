@@ -207,7 +207,6 @@ Meet the people who keep NovaHunterZ running smoothly:
 ### 🎯 **Articc**
 **Management**
 
-[![GitHub](https://img.shields.io/badge/GitHub-martinsundnes-181717?style=flat-square&logo=github)](https://github.com/martinsundnes)
 [![Steam](https://img.shields.io/badge/Steam-Profile-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561197981097531)
 
 *Strategic planning, community growth, and operations*
